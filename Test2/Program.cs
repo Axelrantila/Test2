@@ -10,8 +10,8 @@ namespace Test2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! The price if 4.99 SEK");
-            Console.WriteLine("And Goodbye!");
+            Console.WriteLine("Hello World! The price is 4.99 SEK");
+            Console.WriteLine("And Goodbye! No refunds.");
         }
     }
 }
